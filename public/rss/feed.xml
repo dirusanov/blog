@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Blog | RUSANOV</title>
+        <link>https://d-rusanov.ru</link>
+        <description>Hi I'm rusanov, I love talking, learning and teaching about technology so, I write tutorials and guides about programming like JavaScript, React, Next.js, Node.js and many more.</description>
+        <lastBuildDate>Mon, 28 Mar 2022 16:09:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Blog | RUSANOV</title>
+            <url>https://d-rusanov.ruicons/maskable_icon.png</url>
+            <link>https://d-rusanov.ru</link>
+        </image>
+        <copyright>All rights reserved 2022, Rusanov</copyright>
+        <item>
+            <title><![CDATA[Парсин auto.ru на Golang]]></title>
+            <link>https://d-rusanov.ruposts/web-scraping-go</link>
+            <guid>https://d-rusanov.ruposts/web-scraping-go</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Парсинг данных или Web Scraping важен для работы множества организаций. Любой разработчик должен иметь представление как забирать данные с других ресурсов. Google и Yandex занимаются парсингом сайтов.]]></description>
+            <author>random1k11@gmail.com (Rusanov)</author>
+        </item>
+        <item>
+            <title><![CDATA[Регулярные выражения]]></title>
+            <link>https://d-rusanov.ruposts/regex-explain</link>
+            <guid>https://d-rusanov.ruposts/regex-explain</guid>
+            <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Регулярные выражения — это шаблоны, используемые для поиска информации в тексте. Например нужно найти все телефоны в большом тексте, это можно сделать с помощью регулярного выражения: "`^\+?[0-9]{3}-?[0-9]{6,12}$`".]]></description>
+            <author>random1k11@gmail.com (Rusanov)</author>
+        </item>
+        <item>
+            <title><![CDATA[Асинхронность вместе с многопоточностью в Python]]></title>
+            <link>https://d-rusanov.ruposts/asyncio-with-multiprocessing</link>
+            <guid>https://d-rusanov.ruposts/asyncio-with-multiprocessing</guid>
+            <pubDate>Sat, 06 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Большинство современных веб-приложений завязаны на вводе и выводе данных, по типу ЗАПРОС -> ОТВЕТ и только относительно небольшая часть нуждается в сложной обработке данных, где требуется максимально использовать всю мощь процессора.]]></description>
+            <author>random1k11@gmail.com (Rusanov)</author>
+        </item>
+    </channel>
+</rss>

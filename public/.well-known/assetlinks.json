@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dastasoft.blog.twa",
+      "sha256_cert_fingerprints": [
+        "B4:F3:D8:92:A1:F8:CD:F1:E2:7F:94:6D:B0:5B:BB:D8:6F:67:37:46:47:A4:0D:62:54:FB:09:60:67:9C:E7:2E"
+      ]
+    }
+  }
+]

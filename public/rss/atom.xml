@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://d-rusanov.ru</id>
+    <title>Blog | RUSANOV</title>
+    <updated>2022-03-28T16:09:11.419Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Rusanov</name>
+        <email>random1k11@gmail.com</email>
+    </author>
+    <link rel="alternate" href="https://d-rusanov.ru"/>
+    <link rel="self" href="https://d-rusanov.rurss/atom.xml"/>
+    <subtitle>Hi I'm rusanov, I love talking, learning and teaching about technology so, I write tutorials and guides about programming like JavaScript, React, Next.js, Node.js and many more.</subtitle>
+    <logo>https://d-rusanov.ruicons/maskable_icon.png</logo>
+    <icon>https://d-rusanov.rufavicon.ico</icon>
+    <rights>All rights reserved 2022, Rusanov</rights>
+    <entry>
+        <title type="html"><![CDATA[Парсин auto.ru на Golang]]></title>
+        <id>https://d-rusanov.ruposts/web-scraping-go</id>
+        <link href="https://d-rusanov.ruposts/web-scraping-go"/>
+        <updated>2022-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Парсинг данных или Web Scraping важен для работы множества организаций. Любой разработчик должен иметь представление как забирать данные с других ресурсов. Google и Yandex занимаются парсингом сайтов.]]></summary>
+        <author>
+            <name>Rusanov</name>
+            <email>random1k11@gmail.com</email>
+        </author>
+        <contributor>
+            <name>Rusanov</name>
+            <email>random1k11@gmail.com</email>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Регулярные выражения]]></title>
+        <id>https://d-rusanov.ruposts/regex-explain</id>
+        <link href="https://d-rusanov.ruposts/regex-explain"/>
+        <updated>2021-11-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Регулярные выражения — это шаблоны, используемые для поиска информации в тексте. Например нужно найти все телефоны в большом тексте, это можно сделать с помощью регулярного выражения: "`^\+?[0-9]{3}-?[0-9]{6,12}$`".]]></summary>
+        <author>
+            <name>Rusanov</name>
+            <email>random1k11@gmail.com</email>
+        </author>
+        <contributor>
+            <name>Rusanov</name>
+            <email>random1k11@gmail.com</email>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Асинхронность вместе с многопоточностью в Python]]></title>
+        <id>https://d-rusanov.ruposts/asyncio-with-multiprocessing</id>
+        <link href="https://d-rusanov.ruposts/asyncio-with-multiprocessing"/>
+        <updated>2021-11-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Большинство современных веб-приложений завязаны на вводе и выводе данных, по типу ЗАПРОС -> ОТВЕТ и только относительно небольшая часть нуждается в сложной обработке данных, где требуется максимально использовать всю мощь процессора.]]></summary>
+        <author>
+            <name>Rusanov</name>
+            <email>random1k11@gmail.com</email>
+        </author>
+        <contributor>
+            <name>Rusanov</name>
+            <email>random1k11@gmail.com</email>
+        </contributor>
+    </entry>
+</feed>

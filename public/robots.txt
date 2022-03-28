@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api
+Host: https://blog.dastasoft.com/
+Sitemap: https://blog.dastasoft.com/sitemap.xml
