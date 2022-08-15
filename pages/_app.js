@@ -1,5 +1,6 @@
 import { ThemeProvider } from 'styled-components'
 import { DefaultSeo } from 'next-seo'
+import { YMInitializer } from 'react-yandex-metrika'
 
 import SEO from '../next-seo-config'
 
@@ -7,13 +8,26 @@ import GlobalStyle from '@/components/GlobalStyle'
 import { lightTheme, darkTheme } from '@/components/Themes'
 import Layout from '@/components/Layout'
 import { useDarkMode } from '@/hooks/useDarkMode'
+import useGaTracker from './useGaTracker'
+
 
 export default function App({ Component, pageProps }) {
   const [theme, themeToggler] = useDarkMode()
   const themeMode = theme === 'light' ? lightTheme : darkTheme
 
+  useGaTracker();
+
   return (
     <>
+      <YMInitializer
+        accounts={[74360284]}
+        options={{
+          clickmap: true,
+          trackLinks: true,
+          accurateTrackBounce: true,
+          webvisor: true,
+        }}
+      />
       <ThemeProvider theme={themeMode}>
         <GlobalStyle />
         <Layout theme={theme} themeToggler={themeToggler}>

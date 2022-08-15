@@ -1,70 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.dastasoft.com/about</loc>
+    <loc>https://blog.rusanov.com/about</loc>
   </url>
 
   <url>
-    <loc>https://blog.dastasoft.com</loc>
+    <loc>https://blog.rusanov.com</loc>
   </url>
 
   <url>
-    <loc
-      >https://blog.dastasoft.com/posts/heres-what-every-react-developer-needs-to-know-about-typescript</loc
-    >
+    <loc>https://blog.rusanov.com/useGaTracker</loc>
   </url>
 
   <url>
-    <loc
-      >https://blog.dastasoft.com/posts/how-every-web-developer-can-become-fullstack-with-nodejs</loc
-    >
+    <loc>https://blog.rusanov.com/post/asyncio-with-multiprocessing</loc>
   </url>
 
   <url>
-    <loc
-      >https://blog.dastasoft.com/posts/how-to-get-better-easier-state-management-redux-toolkit</loc
-    >
+    <loc>https://blog.rusanov.com/post/regex-explain</loc>
   </url>
 
   <url>
-    <loc
-      >https://blog.dastasoft.com/posts/mongodb-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs</loc
-    >
-  </url>
-
-  <url>
-    <loc
-      >https://blog.dastasoft.com/posts/presentations-like-a-pro-with-fusuma-and-markdown</loc
-    >
-  </url>
-
-  <url>
-    <loc
-      >https://blog.dastasoft.com/posts/simple-animated-circle-bar-as-react-component</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://blog.dastasoft.com/posts/simple-react-boilerplate</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://blog.dastasoft.com/posts/simple-static-blog-with-nextjs-and-devto-as-cms</loc
-    >
-  </url>
-
-  <url>
-    <loc>https://blog.dastasoft.com/posts/styling-in-react</loc>
-  </url>
-
-  <url>
-    <loc>https://blog.dastasoft.com/posts/web-scraping-go</loc>
-  </url>
-
-  <url>
-    <loc
-      >https://blog.dastasoft.com/posts/why-you-should-use-chakra-ui-in-react</loc
-    >
+    <loc>https://blog.rusanov.com/post/web-scraping-go</loc>
   </url>
 </urlset>
