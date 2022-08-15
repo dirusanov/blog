@@ -8,7 +8,7 @@ import GlobalStyle from '@/components/GlobalStyle'
 import { lightTheme, darkTheme } from '@/components/Themes'
 import Layout from '@/components/Layout'
 import { useDarkMode } from '@/hooks/useDarkMode'
-import useGaTracker from './useGaTracker'
+import useGaTracker from '../useGaTracker'
 
 
 export default function App({ Component, pageProps }) {
