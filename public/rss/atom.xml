@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://d-rusanov.ru</id>
     <title>Blog | RUSANOV</title>
-    <updated>2022-08-15T06:11:06.740Z</updated>
+    <updated>2023-03-18T11:17:28.886Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Rusanov</name>
@@ -13,7 +13,7 @@
     <subtitle>Hi I'm rusanov, I love talking, learning and teaching about technology so, I write tutorials and guides about programming like JavaScript, React, Next.js, Node.js and many more.</subtitle>
     <logo>https://d-rusanov.ruicons/maskable_icon.png</logo>
     <icon>https://d-rusanov.rufavicon.ico</icon>
-    <rights>All rights reserved 2022, Rusanov</rights>
+    <rights>All rights reserved 2023, Rusanov</rights>
     <entry>
         <title type="html"><![CDATA[Парсин auto.ru на Golang]]></title>
         <id>https://d-rusanov.ruposts/web-scraping-go</id>

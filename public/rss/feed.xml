@@ -4,7 +4,7 @@
         <title>Blog | RUSANOV</title>
         <link>https://d-rusanov.ru</link>
         <description>Hi I'm rusanov, I love talking, learning and teaching about technology so, I write tutorials and guides about programming like JavaScript, React, Next.js, Node.js and many more.</description>
-        <lastBuildDate>Mon, 15 Aug 2022 06:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 11:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -12,7 +12,7 @@
             <url>https://d-rusanov.ruicons/maskable_icon.png</url>
             <link>https://d-rusanov.ru</link>
         </image>
-        <copyright>All rights reserved 2022, Rusanov</copyright>
+        <copyright>All rights reserved 2023, Rusanov</copyright>
         <item>
             <title><![CDATA[Парсин auto.ru на Golang]]></title>
             <link>https://d-rusanov.ruposts/web-scraping-go</link>
