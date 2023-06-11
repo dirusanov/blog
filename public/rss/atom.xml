@@ -10,9 +10,9 @@
     </author>
     <link rel="alternate" href="https://d-rusanov.ru"/>
     <link rel="self" href="https://d-rusanov.rurss/atom.xml"/>
-    <subtitle>Hi I'm rusanov, I love talking, learning and teaching about technology so, I write tutorials and guides about programming like JavaScript, React, Next.js, Node.js and many more.</subtitle>
+    <subtitle>Hello I'm Dmitrii Rusanov, I love talking and teaching about technology</subtitle>
     <logo>https://d-rusanov.ruicons/maskable_icon.png</logo>
-    <icon>https://d-rusanov.rufavicon.ico</icon>
+    <icon>https://d-rusanov.ru/favicon.ico</icon>
     <rights>All rights reserved 2023, Rusanov</rights>
     <entry>
         <title type="html"><![CDATA[Оптимизация Бизнес-Процессов с GPT: Революция ИИ в Повышении Производительности]]></title>

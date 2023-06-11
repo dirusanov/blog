@@ -3,8 +3,8 @@
     "title": "Blog | RUSANOV",
     "home_page_url": "https://d-rusanov.ru",
     "feed_url": "https://d-rusanov.rurss/feed.json",
-    "description": "Hi I'm rusanov, I love talking, learning and teaching about technology so, I write tutorials and guides about programming like JavaScript, React, Next.js, Node.js and many more.",
-    "icon": "https://d-rusanov.ruicons/maskable_icon.png",
+    "description": "Hi I'm rusanov, I love talking about technology",
+    "icon": "https://d-rusanov.ru/icons/maskable_icon.png",
     "author": {
         "name": "Rusanov"
     },
