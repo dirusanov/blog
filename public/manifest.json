@@ -1,15 +1,15 @@
 {
   "background_color": "#6da34d",
-  "description": "Hi I'm dastasoft, I love talking, learning and teaching about technology so, I write tutorials and guides about programming like JavaScript, React, Next.js, Node.js and many more.",
+  "description": "Hiello I'm Dmitrii RUsanov, I love talking about technology and other stuff.",
   "dir": null,
   "display": "fullscreen",
   "lang": "English",
-  "name": "Blog | dastasoft",
+  "name": "Blog | Rusanov",
   "orientation": "portrait-primary",
   "prefer_related_applications": null,
   "related_applications": null,
   "scope": "/",
-  "short_name": "Blog | dastasoft",
+  "short_name": "Blog | Rusanov",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": ["business", "education", "productivity", "utilities"],
@@ -86,5 +86,5 @@
       "icons": [{ "src": "/icons/maskable_icon_x192.png", "sizes": "192x192" }]
     }
   ],
-  "url": "https://blog.dastasoft.com"
+  "url": "https://d-rusanov.ru"
 }

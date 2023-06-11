@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /api
-Host: https://blog.dastasoft.com/
-Sitemap: https://blog.dastasoft.com/sitemap.xml
+Host: https://d-rusanov.ru/
+Sitemap: https://d-rusanov.ru/sitemap.xml
