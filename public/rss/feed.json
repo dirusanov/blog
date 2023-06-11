@@ -10,6 +10,16 @@
     },
     "items": [
         {
+            "id": "https://d-rusanov.ruposts/chat-gpt",
+            "url": "https://d-rusanov.ruposts/chat-gpt",
+            "title": "Оптимизация Бизнес-Процессов с GPT: Революция ИИ в Повышении Производительности",
+            "summary": "ChatGPT, представитель нового поколения Large Language Models (LLM), буквально взорвал наше представление о ИИ, быстро став неотъемлемым инструментом нашей жизни",
+            "date_modified": "2023-06-11T00:00:00.000Z",
+            "author": {
+                "name": "Rusanov"
+            }
+        },
+        {
             "id": "https://d-rusanov.ruposts/web-scraping-go",
             "url": "https://d-rusanov.ruposts/web-scraping-go",
             "title": "Парсин auto.ru на Golang",

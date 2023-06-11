@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://d-rusanov.ru</id>
     <title>Blog | RUSANOV</title>
-    <updated>2023-03-18T11:17:28.886Z</updated>
+    <updated>2023-06-11T05:10:29.628Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Rusanov</name>
@@ -14,6 +14,21 @@
     <logo>https://d-rusanov.ruicons/maskable_icon.png</logo>
     <icon>https://d-rusanov.rufavicon.ico</icon>
     <rights>All rights reserved 2023, Rusanov</rights>
+    <entry>
+        <title type="html"><![CDATA[Оптимизация Бизнес-Процессов с GPT: Революция ИИ в Повышении Производительности]]></title>
+        <id>https://d-rusanov.ruposts/chat-gpt</id>
+        <link href="https://d-rusanov.ruposts/chat-gpt"/>
+        <updated>2023-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT, представитель нового поколения Large Language Models (LLM), буквально взорвал наше представление о ИИ, быстро став неотъемлемым инструментом нашей жизни]]></summary>
+        <author>
+            <name>Rusanov</name>
+            <email>random1k11@gmail.com</email>
+        </author>
+        <contributor>
+            <name>Rusanov</name>
+            <email>random1k11@gmail.com</email>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Парсин auto.ru на Golang]]></title>
         <id>https://d-rusanov.ruposts/web-scraping-go</id>

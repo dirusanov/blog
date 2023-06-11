@@ -4,7 +4,7 @@
         <title>Blog | RUSANOV</title>
         <link>https://d-rusanov.ru</link>
         <description>Hi I'm rusanov, I love talking, learning and teaching about technology so, I write tutorials and guides about programming like JavaScript, React, Next.js, Node.js and many more.</description>
-        <lastBuildDate>Sat, 18 Mar 2023 11:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 05:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,14 @@
             <link>https://d-rusanov.ru</link>
         </image>
         <copyright>All rights reserved 2023, Rusanov</copyright>
+        <item>
+            <title><![CDATA[Оптимизация Бизнес-Процессов с GPT: Революция ИИ в Повышении Производительности]]></title>
+            <link>https://d-rusanov.ruposts/chat-gpt</link>
+            <guid>https://d-rusanov.ruposts/chat-gpt</guid>
+            <pubDate>Sun, 11 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[ChatGPT, представитель нового поколения Large Language Models (LLM), буквально взорвал наше представление о ИИ, быстро став неотъемлемым инструментом нашей жизни]]></description>
+            <author>random1k11@gmail.com (Rusanov)</author>
+        </item>
         <item>
             <title><![CDATA[Парсин auto.ru на Golang]]></title>
             <link>https://d-rusanov.ruposts/web-scraping-go</link>
